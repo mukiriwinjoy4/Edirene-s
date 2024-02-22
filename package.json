@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "vue-router": "^4.3.0",
+    "vuetify": "^3.5.4"
+  },
+  "devDependencies": {
+    "@mdi/font": "^7.4.47"
+  }
+}
